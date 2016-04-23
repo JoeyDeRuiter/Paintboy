@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 6edf7ad9db0afbc46b078993a4b9e543
+timeCreated: 1448266684
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: running animation sritesheet_0
+    21300002: running animation sritesheet_1
+    21300004: running animation sritesheet_2
+    21300006: running animation sritesheet_3
+    21300008: running animation sritesheet_4
+    21300010: running animation sritesheet_5
+    21300012: running animation sritesheet_6
+    21300014: running animation sritesheet_7
+    21300016: running animation sritesheet_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: running animation sritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 226
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 195
+        width: 241
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 158
+        width: 204
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 161
+        width: 210
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 170
+        width: 238
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 159
+        width: 247
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 125
+        width: 215
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 172
+        width: 221
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running animation sritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
