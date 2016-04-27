@@ -3,7 +3,7 @@ Paintboy is een web 2D platformer game gemaakt om de opleidingsrichtingen Intera
 </br>
 // Developers </br>
 Joey de Ruiter (https://github.com/JoeyDeRuiter, https://gitlab.com/Redbeast12/) </br>
-Ferdi van der Woerd () </br></br>
+Ferdi van der Woerd (https://github.com/FerdivdWoerd) </br></br>
 // Artists </br>
 Diede Vondracek</br>
 Laurens </br>
